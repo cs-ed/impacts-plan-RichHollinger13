@@ -6,9 +6,9 @@ This impact plan is designed for AP Computer Science A, an advanced placement co
 
 ### Learning Objectives
 
-Students will be able to describe and illustrate how recommendation algorithms operate at a basic computational level by identifying inputs, decision rules, and outputs.
-Students will be able to analyze the effects of modifying algorithmic parameters on content recommendations and infer potential impacts on user experience and mental health.
-Students will be able to evaluate ethical tradeoffs in recommendation algorithm design by defending design decisions using evidence generated from their code outputs.
+- Students will be able to describe and illustrate how recommendation algorithms operate at a basic computational level by identifying inputs, decision rules, and outputs.
+- Students will be able to analyze the effects of modifying algorithmic parameters on content recommendations and infer potential impacts on user experience and mental health.
+- Students will be able to evaluate ethical tradeoffs in recommendation algorithm design by defending design decisions using evidence generated from their code outputs.
 
 
 ### Learning Activities
